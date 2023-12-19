@@ -2,6 +2,9 @@
 
 #### Technical Skills: Python, SQL, MATLAB, Tableau, JavaScript
 
+## Profile
+An adaptive, creative, and detail-oriented fresh graduate computer student from Airlangga University who is experienced in problem-solving and developing strong partnerships. Ready to make a meaningful impact with the combination of IT data expertise and computer skills.
+
 ## Education
 Universitas Airlangga (_2019 - 2023_)
 - Bachelor of Computers; Current GPA: 3.53/4.0 
