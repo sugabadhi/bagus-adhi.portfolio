@@ -22,7 +22,7 @@ _IT Data Management Internship_
 
 The purpose of this research is to create a predictive model for hotel customer loyalty using the Decision Tree methods. Additionally, this study aims to obtain a comparative analysis of the accuracy percentages of the Decision Tree and Random Forest methods in predicting hotel customer loyalty. The dataset that used are obtained from Kaggle Website.
 
-![Decision Tree Result](assets/Decision tree.jpg)
+![Decision Tree Result](/assets/img/des_tree.jpg)
 
 Classification uses the Decision Tree  methods, with a data training split ratio of 80% and testing data of 20%. The output of the Decision Tree a classification modeling is to predict loyal and non-loyal customers. The evaluation results were carried out using the Confusion Matrix and Mean Absolute Percentage Error. The best accuracy value from each evaluation method was achieved, with a Confusion Matrix accuracy value of 95%. The Decision Tree Mean Absolute Percentage Error (MAPE) evaluation lowest error value percentage is 0.047%.
 
